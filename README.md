@@ -8,3 +8,10 @@ The purpose of the project was the classification and detection of fake news thr
 The process is implemented in Python and its libraries.
 
 The output of the computations was then visualized through WordCloud.
+
+Steps:
+  •	Data gathering
+  •	Data cleaning
+  •	TF-IDF text representation and indexing
+  •	Multinomial Naive Bayes, Linear Support Vector, Decision Tree , Logistic Regression and Stochastic Gradient Descent classifiers training on     the train and test sets built
+  •	WordCloud representation
