@@ -23,6 +23,24 @@ Steps:
 
 An exaustive review of the whole process is stored within the PDF file.
 
+# 13/07/2020 - DL extension
+
+An extension of the original project was performed: the problem of classifying fake and good news was faced by using different architecture for recurrent neural networks.
+
+Steps: 
+
+ •	Data gathering
+  
+  •	Data cleaning
+  
+  •	Recurrent neural networks modelling and training
+  
+  •	Test set verification
+  
+  •	Output classification
+
+An exaustive walkthrough of the process is stored within the PDF extension file: "Progetto di Sistemi Intelligenti per Internet e Machine Learning - Estensione DL"
+
 # References
 
 “Fake News Detection on Social Media: A Data Mining Perspective” - Kai Shuy, Amy Slivaz, Suhang Wangy, Jiliang Tang, and Huan Liuy.
@@ -32,5 +50,7 @@ An exaustive review of the whole process is stored within the PDF file.
 “FAKEDETECTOR: Effective Fake News Detection with Deep Diffusive Neural Network” - Jiawei Zhang, Bowen Dong, Philip S. Yu.
 
 https://github.com/eChanClarityInsights - Fake-News-Classifier.
+
+https://www.kaggle.com/iamsiddhant/fake-news-lstm
 
 Various Python libraries’ online documentation.
